@@ -1,0 +1,1 @@
+select count(type) from AddressBook
